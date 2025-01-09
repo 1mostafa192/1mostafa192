@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning ...problem solving 
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on ....
 
 📫 How to reach me ...+20 1289545351
 
