@@ -1,6 +1,6 @@
 👋 Hi, I’m @Mostafa Afifi 
 
-👀 I’m interested in ....Programming and cyber security 
+👀 I’m interested in ...Programming and cyber security 
 
 🌱 I’m currently learning ...problem solving 
 
