@@ -1,6 +1,6 @@
 👋 Hi, I’m @Mostafa Afifi 
 
-👀 I’m interested in .....Programming 
+👀 I’m interested in ....Programming 
 
 🌱 I’m currently learning ...problem solving 
 
