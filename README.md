@@ -5,7 +5,7 @@
 <h3>🚀 About Me</h3>
 <ul>
   <li>🎯 I specialize in building scalable backend systems using <b>Node.js</b> and <b>Express</b>.</li>
-  <li>🧠 I solve competitive programming problems and share detailed solutions on my <a href="https://www.youtube.com/@MostafaAfify">YouTube channel</a>.</li>
+  <li>🧠 I solve competitive programming problems and share detailed solutions on my <a href="https://www.youtube.com/@Afifi90">YouTube channel</a>.</li>
   <li>📈 Always learning new tech and sharpening my data structures & algorithms skills.</li>
   <li>🤝 Currently preparing for <b>ECPC</b> and aiming to qualify for <b>ACPC</b>.</li>
 </ul>
@@ -24,7 +24,7 @@
 
 <h3>📺 YouTube - Problem Solving Content</h3>
 <ul>
-  <li><a href="https://www.youtube.com/@MostafaAfify"><b>▶️ Check out my YouTube Channel</b></a> – I explain competitive programming problems step by step!</li>
+  <li><a href="https://www.youtube.com/@Afifi90"><b>▶️ Check out my YouTube Channel</b></a> – I explain competitive programming problems step by step!</li>
 </ul>
 
 <h3>📌 Highlighted Projects</h3>
@@ -52,9 +52,9 @@
 
 <h3>📬 Where to find me</h3>
 <p>
-  <a href="https://github.com/mostafa-afify" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@MostafaAfify" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mostafa-afify" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/1mostafa192" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Afifi90" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mostafa-afifi-0a9283345/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
