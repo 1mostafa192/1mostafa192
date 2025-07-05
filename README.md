@@ -5,7 +5,7 @@
 <h3>🚀 About Me</h3>
 <ul>
   <li>🎯 I specialize in building scalable backend systems using <b>Node.js</b> and <b>Express</b>.</li>
-  <li>🧠 I solve competitive programming problems and share detailed solutions on my <a href="https://www.youtube.com/@Afifi90">YouTube channel</a>.</li>
+  <li>🧠 I solve competitive programming problems and share detailed solutions on my <a href="https://www.youtube.com/@MeshAfifi">YouTube channel</a>.</li>
   <li>📈 Always learning new tech and sharpening my data structures & algorithms skills.</li>
   <li>🤝 Currently preparing for <b>ECPC</b> and aiming to qualify for <b>ACPC</b>.</li>
 </ul>
@@ -26,7 +26,7 @@
 
 <h3>📺 YouTube - Problem Solving Content</h3>
 <ul>
-  <li><a href="https://www.youtube.com/@Afifi90"><b>▶️ Check out my YouTube Channel</b></a> – I explain competitive programming problems step by step!</li>
+  <li><a href="https://www.youtube.com/@MeshAfifi"><b>▶️ Check out my YouTube Channel</b></a> – I explain competitive programming problems step by step!</li>
 </ul>
 
 <h3>📌 Highlighted Projects</h3>
