@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/your-username/problem-solving-playlist"><b>Problem Solving with Explanations</b></a></td>
+      <td><a href="https://github.com/1mostafa192/Competitive-programming.git"><b>Problem Solving with Explanations</b></a></td>
       <td><img src="https://img.shields.io/github/stars/your-username/problem-solving-playlist?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/forks/your-username/problem-solving-playlist?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues/your-username/problem-solving-playlist?style=flat-square&labelColor=343b41"/></td>
